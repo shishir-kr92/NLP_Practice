@@ -1,0 +1,7 @@
+- lemmatization
+- when to remove stop words when not to remove
+- document
+- corpus
+POS
+    - parts of speech tagging
+    - name entity tagging
