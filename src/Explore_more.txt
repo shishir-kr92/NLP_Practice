@@ -2,6 +2,19 @@
 - when to remove stop words when not to remove
 - document
 - corpus
-POS
+- Span
+- spacy pipeline
+	- tagger
+	- parser
+	- ner
+- POS
     - parts of speech tagging
     - name entity tagging
+    - Matcher and PhraseMatcher
+ 
+ 
+
+Stemmer algo
+    - PorterStemmer
+    - N-grams
+
